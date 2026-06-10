@@ -1,0 +1,6 @@
+{
+  "name": "Auto Mecânica São Luís",
+  "description": "Site institucional da Auto Mecânica São Luís com serviços, contatos e política de privacidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
